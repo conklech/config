@@ -1,3 +1,5 @@
 [user]
 	email = christian@conkle.org
 	name = Christian Conkle
+[push]
+	default = simple

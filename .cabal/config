@@ -10,7 +10,6 @@
 -- Cabal library version: 1.22.0.0
 -- cabal-install version: 1.22.0.0
 
-
 -- require-sandbox: False
 -- ignore-sandbox: False
 remote-repo: hackage.haskell.org:http://hackage.haskell.org/packages/archive
